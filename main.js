@@ -1,4 +1,4 @@
-/*function getRandomColor() {
+function getRandomColor() {
     var color = '#';
   
     for (var i = 0; i < 3; i++) {
@@ -10,18 +10,14 @@
   
   function iCanTellYou() {
     var monthsWihtYou = [
-      'A tu lado siento féliz',
-      'Amaré cada segundo de ti' ,
-      'Párate frente a mi, quiero verte todos los días de mi vida...',
-      'Puedo esconderme en tus sueños?',
-      'Contigo la vida se ve más bonita',
-      'Te pienso por que no quiero olvidarte ni un segundo',
-      'Y si mejor existimos en nuestro mundo?...',
-      'Hay muchas personas teniendo muchas personas favoritas, yo solo quiero tenerte',
-      'Este es el primer día número 365',
-      'La vida era medio grisesita sin ti',
-      'Tus sentimientos son mas lindos que tus fotos de paisajes',
-      'Cómo se sentirá amarte más?'
+      'La dopamina que liberas en mi, me hace sentir féliz.',
+      'Amo tu forma de ser, sencilla, alegre, divertida, competitiva, infantil &hearts',
+      'Contigo la vida se ve más bonita.',
+      'A veces te pienso y no logro olvidarte. Porque no se puede sacar de la cabeza aquello que está en el corazón.',
+      'La vida era medio gris sin ti.',
+      'Le temi al amor, pero luego me di cuenta que hubiera sido un error no amarte, porque es la que me ha ayudado a crecer como persona.',
+      'Tus sentimientos y tu forma de ser son mas lindos que tus fotos de paisajes y bacterias :)',
+      '¿Cómo se sentirá sentir lo mismo el uno por el otro?. Lo dejare a mi imaginación...'
     ]
     content = document.querySelector('.contentFeels');
   
@@ -34,5 +30,4 @@
     }
   }
   iCanTellYou();
-  */
   
