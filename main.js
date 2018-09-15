@@ -1,4 +1,4 @@
-function getRandomColor() {
+/*function getRandomColor() {
     var color = '#';
   
     for (var i = 0; i < 3; i++) {
@@ -9,7 +9,8 @@ function getRandomColor() {
   }
   
   function iCanTellYou() {
-    var monthsWihtYou = ['A tu lado siento paz',
+    var monthsWihtYou = [
+      'A tu lado siento féliz',
       'Amaré cada segundo de ti' ,
       'Párate frente a mi, quiero verte todos los días de mi vida...',
       'Puedo esconderme en tus sueños?',
@@ -33,4 +34,5 @@ function getRandomColor() {
     }
   }
   iCanTellYou();
+  */
   
